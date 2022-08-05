@@ -3,4 +3,5 @@ numpy
 requests
 jupyter
 matplotlib
-
+ciso8601
+scipy
